@@ -1,0 +1,21 @@
+name,old,new,percentage_change
+speed,compareing single value with points,compareing single value with points,N/A
+max_torque,compareing single value with points,compareing single value with points,N/A
+min_torque,compareing single value with points,compareing single value with points,N/A
+thermal_limit,compareing single value with points,compareing single value with points,N/A
+max_power,compareing single value with points,compareing single value with points,N/A
+min_power,compareing single value with points,compareing single value with points,N/A
+motor_efficiency,compareing single value with points,compareing single value with points,N/A
+gear_ratio,compareing single value with points,compareing single value with points,N/A
+voltage,compareing single value with points,compareing single value with points,N/A
+current,compareing single value with points,compareing single value with points,N/A
+temperature,compareing single value with points,compareing single value with points,N/A
+vibration_level,compareing single value with points,compareing single value with points,N/A
+noise_level,compareing single value with points,compareing single value with points,N/A
+load_capacity,compareing single value with points,compareing single value with points,N/A
+duty_cycle,compareing single value with points,compareing single value with points,N/A
+operating_time,compareing single value with points,compareing single value with points,N/A
+maintenance_interval,compareing single value with points,compareing single value with points,N/A
+temp_curve,compareing single value with points,compareing single value with points,N/A
+torque_curve,compareing single value with points,compareing single value with points,N/A
+power_curve,compareing single value with points,compareing single value with points,N/A

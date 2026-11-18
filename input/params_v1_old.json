@@ -1,0 +1,265 @@
+[
+    {
+        "name": "speed",
+        "unit": "km/h",
+        "min": -17,
+        "max": 132,
+        "value": -16
+    },
+    {
+        "name": "max_torque",
+        "unit": "Nm",
+        "min": 40,
+        "max": 316,
+        "value": 83
+    },
+    {
+        "name": "min_torque",
+        "unit": "Nm",
+        "min": 57,
+        "max": 445,
+        "value": 195
+    },
+    {
+        "name": "thermal_limit",
+        "unit": "\u00b0C",
+        "min": -89,
+        "max": 489,
+        "value": 304
+    },
+    {
+        "name": "max_power",
+        "unit": "kW",
+        "min": -45,
+        "max": 473,
+        "value": 41
+    },
+    {
+        "name": "min_power",
+        "unit": "kW",
+        "min": -42,
+        "max": 384,
+        "value": 72
+    },
+    {
+        "name": "motor_efficiency",
+        "unit": "%",
+        "min": 69,
+        "max": 101,
+        "value": 85
+    },
+    {
+        "name": "gear_ratio",
+        "unit": "",
+        "min": 99,
+        "max": 352,
+        "value": 137
+    },
+    {
+        "name": "voltage",
+        "unit": "V",
+        "min": -42,
+        "max": 308,
+        "value": 197
+    },
+    {
+        "name": "current",
+        "unit": "A",
+        "min": 70,
+        "max": 303,
+        "value": 195
+    },
+    {
+        "name": "temperature",
+        "unit": "\u00b0C",
+        "min": 74,
+        "max": 386,
+        "value": 112
+    },
+    {
+        "name": "vibration_level",
+        "unit": "mm/s",
+        "min": 9,
+        "max": 67,
+        "value": 20
+    },
+    {
+        "name": "noise_level",
+        "unit": "dB",
+        "min": 54,
+        "max": 273,
+        "value": 245
+    },
+    {
+        "name": "load_capacity",
+        "unit": "kg",
+        "min": 22,
+        "max": 349,
+        "value": 61
+    },
+    {
+        "name": "duty_cycle",
+        "unit": "%",
+        "min": 92,
+        "max": 378,
+        "value": 99
+    },
+    {
+        "name": "operating_time",
+        "unit": "hours",
+        "min": -6,
+        "max": 65,
+        "value": 37
+    },
+    {
+        "name": "maintenance_interval",
+        "unit": "km",
+        "min": 34,
+        "max": 419,
+        "value": 88
+    },
+    {
+        "name": "temp_curve",
+        "unit": "C",
+        "min": -18,
+        "max": 435,
+        "points": [
+            {
+                "x": 0,
+                "y": 185
+            },
+            {
+                "x": 1,
+                "y": 46
+            },
+            {
+                "x": 2,
+                "y": 143
+            },
+            {
+                "x": 3,
+                "y": 139
+            },
+            {
+                "x": 4,
+                "y": 281
+            },
+            {
+                "x": 5,
+                "y": 250
+            },
+            {
+                "x": 6,
+                "y": 386
+            },
+            {
+                "x": 7,
+                "y": 236
+            },
+            {
+                "x": 8,
+                "y": 307
+            },
+            {
+                "x": 9,
+                "y": 1
+            }
+        ]
+    },
+    {
+        "name": "torque_curve",
+        "unit": "Nm",
+        "min": 53,
+        "max": 304,
+        "points": [
+            {
+                "x": 0,
+                "y": 100
+            },
+            {
+                "x": 1,
+                "y": 170
+            },
+            {
+                "x": 2,
+                "y": 236
+            },
+            {
+                "x": 3,
+                "y": 149
+            },
+            {
+                "x": 4,
+                "y": 81
+            },
+            {
+                "x": 5,
+                "y": 200
+            },
+            {
+                "x": 6,
+                "y": 146
+            },
+            {
+                "x": 7,
+                "y": 186
+            },
+            {
+                "x": 8,
+                "y": 169
+            },
+            {
+                "x": 9,
+                "y": 136
+            }
+        ]
+    },
+    {
+        "name": "power_curve",
+        "unit": "kW",
+        "min": 15,
+        "max": 229,
+        "points": [
+            {
+                "x": 0,
+                "y": 171
+            },
+            {
+                "x": 1,
+                "y": 216
+            },
+            {
+                "x": 2,
+                "y": 187
+            },
+            {
+                "x": 3,
+                "y": 142
+            },
+            {
+                "x": 4,
+                "y": 110
+            },
+            {
+                "x": 5,
+                "y": 167
+            },
+            {
+                "x": 6,
+                "y": 140
+            },
+            {
+                "x": 7,
+                "y": 131
+            },
+            {
+                "x": 8,
+                "y": 67
+            },
+            {
+                "x": 9,
+                "y": 174
+            }
+        ]
+    }
+]
