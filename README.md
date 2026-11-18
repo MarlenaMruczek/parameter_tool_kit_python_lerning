@@ -1,4 +1,5 @@
 # Parameters Tool Kit
+>  📚  Learning project: created while learning Python.
 
 A Python tool for comparing two versions of a parameter set (old vs. new), validating the input data, and generating a report of the differences. 
 The tool is intended to be run through the batch file `run.bat`, which starts the Python script and keeps the console window open so the messages can be read.
